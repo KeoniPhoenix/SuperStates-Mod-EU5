@@ -30,7 +30,7 @@ This section likely will be replaced with simplier rules.  As the EU5 is detaile
 ### Provinces.bmp ###
 Colors for modded provinces that require a new province ID for SuperStates Mod in EU5 *MUST* be _Prime Numbers_ for the RGB values.
 
-###Old EU4 Standards that likely will not apply but are currently being kept.###
+### Old EU4 Standards that likely will not apply but are currently being kept. ###
 
 Provinces added to or modified on the map within the Mod's area are a collection of US county-equivalent local governments.  Not every nation (or even US state) follows the same idea as to what is a county or is an equivalent.  GIS maps are heavily used in drawing along modern boundaries of these county-equivalent local government bouandaries.  This tends to make blocky provinces in parts of the map but it is a design decision by the original author, KeoniPhoenix, to make editing the map more consistent and keep it somewhat accurate.
 
